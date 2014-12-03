@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h2>{{ page.title | downcase }}</h2>
+{{ content }}
+
+{% if page.audio %}
+<a href="{{ site.url }}/audio/{{ page.audio }}">Download our audio file for this post</a>
+{% else %}
+<em>Sorry no audio file</em>
+{% endif %}
