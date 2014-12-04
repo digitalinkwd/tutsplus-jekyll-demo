@@ -7,7 +7,7 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis
 
 ##"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 <!-- full path syntax "url in config must be disabled to work"
-![Lipsum Mug Pic]({{ site.url }}/images/lipsumc_mugs.jpg)
+![Lipsum Mug Pic](images/lipsumc_mugs.jpg)
 -->
 
 ![Lipsum Mug Pic]({{ site.baseurl }}/images/lipsumc_mugs.jpg) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis sagittis leo in fermentum. Fusce rhoncus lacinia libero, eu iaculis lacus malesuada at. Donec sollicitudin, dui sed ultrices tempus, felis diam pharetra nulla, a fringilla purus lacus ac neque. Morbi auctor luctus velit, id congue elit sollicitudin pretium. Sed id lacus non augue consequat dictum pellentesque eu urna. Proin feugiat magna non porta vehicula. Maecenas a eros pellentesque, viverra elit posuere, blandit risus.
