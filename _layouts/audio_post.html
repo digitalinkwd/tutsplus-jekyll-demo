@@ -5,6 +5,12 @@ layout: default
 <h2>{{ page.title | downcase }}</h2>
 {{ content }}
 
+{% for skill in page.skills %}
+	<li>
+	{{ skill[0] }}: {{ skill[1] }}
+	</li>
+{% endfor %}
+
 {% if page.audio %}
 <a href="{{ site.url }}/audio/{{ page.audio }}">Download our audio file for this post</a>
 {% else %}

@@ -3,6 +3,7 @@ layout: audio_post
 title: The infamous first post
 date: 2014-12-02
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lobortis sagittis leo in fermentum. Fusce rhoncus lacinia libero, eu iaculis lacus malesuada at. Donec sollicitudin, dui sed ultrices tempus, felis diam pharetra nulla, a fringilla purus lacus ac nequest.
+skills: [  ["Photoshop",10] , ["Illustrator",9] , ["PHP",4] ]
 ---
 
 ##"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
